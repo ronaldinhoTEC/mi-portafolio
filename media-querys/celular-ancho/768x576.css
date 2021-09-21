@@ -1,0 +1,109 @@
+@media screen and (max-width: 768px) and (min-width: 576px) {
+    .name_header{
+        width: 100vw;
+    }
+    .opciones_header {
+        width: 85%;
+        padding: 30px 20px;
+        margin: 0 30px;
+    }
+    .header__toggle{
+        display: inline;
+        color: #eeeeee;
+        font-size: 24px;
+
+    }
+    .header__close{
+        display: block;
+        position: absolute;
+        right: 24px;
+        font-size: 24px;
+        border-radius: 50%;
+    }
+    .header__close:hover{
+        background-color: aquamarine;
+    }
+    .nav{
+        display: flex;
+        position: fixed;
+        top: 0;
+        right: -100%;
+        background-color: black;
+        color: #eeee;
+        height: 100vh;
+        padding: 24px 0;
+        z-index: 100;
+        transition: 0.5s;
+        border-radius: 0 0 0 50%;
+        flex-direction: column;
+        width: 60vw;
+    }
+    .container_header{
+        display: flex;
+        flex-direction: column;
+        height: 45vh;
+        width: 100%;
+        padding: 0;
+    }
+    .show{
+        right: 0;
+    }
+    .presentacion{
+        width: 85%;
+        height: 100vh;
+        padding-left: 40px;
+    }
+    
+    .experiencia{
+        grid-template-columns: 100%;
+        grid-template-rows: 90vh 50vh 50vh;
+        height: 100%;
+    }
+    .skills{
+        grid-row: 1/2;  
+    }
+    .faq_contacto{
+        grid-template-columns: 100% ;
+        grid-template-rows: 80vh 70vh;
+        height: auto
+    }
+    /* .faq_contacto_item{
+        width: ;
+    }
+    .faq{
+        width: ;
+    } */
+    .botones{
+        margin-bottom: 0px;
+        gap: 20px;
+    }
+    .cybr-btn{
+        width: 80%;
+        height: 75px;
+    }
+    .descripcion-autor{
+        width: 80vw;
+    }
+    .nombre-autor{
+        font-size: 2.5rem !important;
+    }
+    .front-back{
+        font-size: 3rem !important;
+    }
+    .cabezera__celular{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        position: fixed;
+        background: #00f7f7 ;
+        width: 100%;
+        z-index: 2000;
+    }
+    .cabezera__celular span:nth-child(1){
+        font-size: 2rem;
+    }
+    .cabezera__celular span{
+        font-family: Cyber ,serif;
+        font-size: 1.2rem;
+    }
+}

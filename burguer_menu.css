@@ -1,0 +1,11 @@
+.header__toggle, .header__close{
+    display: none;
+    color:#112240 !important;
+}
+.nav{
+    display: inline-flex;
+}
+
+
+
+

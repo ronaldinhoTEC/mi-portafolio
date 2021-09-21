@@ -1,0 +1,163 @@
+@media screen and (max-width: 576px){
+    .name_header{
+        width: 100vw;
+    }
+    .opciones_header {
+        width: 85%;
+        padding: 30px 20px;
+        margin: 0 30px;
+    }
+    .header__toggle{
+        display: inline;
+        color: #eeeeee;
+        font-size: 24px;
+
+    }
+    .header__close{
+        display: block;
+        position: absolute;
+        right: 24px;
+        font-size: 24px;
+        border-radius: 50%;
+    }
+    .header__close:hover{
+        background-color: aquamarine;
+    }
+    .nav{
+        display: flex;
+        position: fixed;
+        top: 0;
+        right: -100%;
+        background-color: black;
+        color: #eeee;
+        height: 100vh;
+        padding: 24px 0;
+        z-index: 100;
+        transition: 0.5s;
+        border-radius: 0 0 0 50%;
+        flex-direction: column;
+        width: 60vw;
+    }
+    .container_header{
+        display: flex;
+        flex-direction: column;
+        height: 45vh;
+        width: 100%;
+        padding: 0;
+    }
+    .show{
+        right: 0;
+    }
+    .presentacion{
+        width: 85%;
+        height: 100%;
+        padding-left: 40px;
+    }
+    
+    .experiencia{
+        grid-template-columns: 100%;
+        grid-template-rows: 90vh 70vh 50vh;
+        height: 100%;
+        width: 94vw;
+    }
+    .skills{
+        grid-row: 1/2;  
+    }
+    .faq_contacto{
+        grid-template-columns: 100% ;
+        grid-template-rows: 80vh 70vh;
+        height: auto;
+        margin-top: 0px;
+    }
+    /* .faq_contacto_item{
+        width: ;
+    }
+    .faq{
+        width: ;
+    } */
+    .botones{
+        margin-bottom: 0px;
+        gap: 20px;
+    }
+    .cybr-btn{
+        width: 80%;
+        height: 65px;
+        font-size: 1.1rem;
+    }
+    .descripcion-autor{
+        width: 80vw;
+    }
+    .nombre-autor{
+        font-size: 2.1rem !important;
+    }
+    .front-back{
+        font-size: 2.4rem !important;
+    }
+    .descripcion-autor{
+        font-size: 1.3rem !important;
+    }
+    .cabezera__celular{
+        display: none;
+        /* justify-content: space-evenly;
+        align-items: center;
+        position: fixed;
+        background: #00f7f7 ;
+        width: 100%;
+        z-index: 2000; */
+    }
+    .cabezera__celular span:nth-child(1){
+        font-size: 2rem;
+    }
+    .cabezera__celular span{
+        font-family: Cyber ,serif;
+        font-size: 1.2rem;
+    }
+    .name-experiencia{
+        width: 35vw;
+    }
+    .skills_cuerpo-item_name{
+        font-size: 1.1rem !important; 
+    }
+    .skills_cuerpo-item_barra{
+        height: 25px;
+    }
+    .skills_cuerpo-item_barra span{
+        height: 25px !important;
+    }
+    .frameworks_cuerpo{
+        grid-template-columns: 45% 45% ;
+        gap: 20px 10px;
+    }
+    .frameworks_item{
+        min-height: 38px;
+        height: 39px;
+        border-top: 3px solid #00f7f7 !important;
+        border-radius: 0 10px ;
+        box-shadow: 2px 2px 5px  var(--celeste) ;
+    }
+    .tecnologias_cuerpo{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding-top: 0;
+        gap: 10px;
+    }
+    .tecnologias_item{
+        border: 2px solid var(--celeste) !important;
+        height: 40px;
+        border-radius: 0px;
+        justify-content: center;
+        align-items: center;
+        border-left: 0px !important;
+        border-right: 0px !important;
+        font-size: 1.2rem;
+        cursor: pointer;
+    }
+    .pregunta h3{
+        font-size: 1.2rem;
+    }
+    .faq_contacto_item{
+        margin: 15px 10px ;
+    }
+}
