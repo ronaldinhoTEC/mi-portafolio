@@ -32,6 +32,7 @@
     }
     .nombre-autor{
         margin: 30px 0;
+        font-size: 4rem !important;
     }
     .saludo{
         margin-top: 40px;

@@ -50,7 +50,7 @@
     }
     .presentacion{
         width: 85%;
-        height: 100%;
+        height: 98vh;
         padding-left: 20px;
     }
     
@@ -78,15 +78,17 @@
     .botones{
         margin-bottom: 0px;
         gap: 20px;
+        
     }
     .cybr-btn{
         width: 80%;
-        height: 65px;
-        font-size: 1.1rem;
+        height: 50px;
+        font-size: 0.9rem;
+        text-align: center;
     }
     /* inicio */
     .saludo{
-        display: none;
+        /* display: none; */
     }
     .descripcion-autor{
         width: 80vw;
@@ -96,6 +98,7 @@
     }
     .front-back{
         font-size: 1.4rem !important;
+        /* display: none; */
     }
     .descripcion-autor{
         font-size: 1rem !important;
