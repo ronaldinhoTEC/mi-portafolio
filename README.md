@@ -25,7 +25,11 @@ En mi caso yo puse la imagen de un casco de moto porque es el producto que yo cr
 ## paso 4  
 _________________________
 Segundo: es momento de poner en el stock del producto una cantidad disponible para vender y lo haremos entrando al cuadro que dice "A mano ", luego crear. A continuacion como primer dato elegiremos el lugar de nuestro almacen al que ira a parar la cantidad, en mi caso seleccionare el almacen principal, como siguiente dato ingresaremos la cantidad, en mi caso de ejemplo pondre que tengo 10 cascos, guardamos los cambios y volvemos al producto, ahora notaremos que hubo un cambio de cantidad en el cuadro que dice a mano, esta nos indica la cantidad total que tenemos del producto en nuestro inventario.  
-## paso 4
+## paso 5
 _________________________
+Es momento de ingresar al punto de venta, y lo haremos de la siguiente manera: Entramos al submenu que dice tablero, e iniciamos una nueva sesion de nuestro punto de venta; esto tomara unos cuantos segundos. Una vez dentro veremos la interfaz que tiene nuestro POS, tambien veremos el producto que creamos.
+## paso 6 
+_________________________
+
 
 
