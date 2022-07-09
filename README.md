@@ -27,11 +27,17 @@ _________________________
 Segundo: es momento de poner en el stock del producto una cantidad disponible para vender y lo haremos entrando al cuadro que dice "A mano ", luego crear. A continuacion como primer dato elegiremos el lugar de nuestro almacen al que ira a parar la cantidad, en mi caso seleccionare el almacen principal, como siguiente dato ingresaremos la cantidad, en mi caso de ejemplo pondre que tengo 10 cascos, guardamos los cambios y volvemos al producto, ahora notaremos que hubo un cambio de cantidad en el cuadro que dice a mano, esta nos indica la cantidad total que tenemos del producto en nuestro inventario.  
 ## paso 5
 _________________________
-Es momento de ingresar al punto de venta, y lo haremos de la siguiente manera: Entramos al submenu que dice tablero, e iniciamos una nueva sesion de nuestro punto de venta; esto tomara unos cuantos segundos. Una vez dentro veremos la interfaz que tiene nuestro POS, tambien veremos el producto que creamos.
+Es momento de ingresar al punto de venta, y lo haremos de la siguiente manera: Entramos al submenu que dice tablero, e iniciamos una nueva sesion de nuestro punto de venta; esto tomara unos cuantos segundos. Una vez dentro veremos la interfaz que tiene nuestro punto de vneta, tambien veremos el producto que creamos.
 ## paso 6 
 _________________________
 A continuacion haremos la venta de 5 cascos siguiendo los siguientes pasos: 
 1. seleccionamos el producto,y automaticamente se pondra el precio que previamente le indicamos en la creacion del producto, para este ejemplo pondre la cantidad de 5, 2. seleccionamos el cliente, en mi caso pondre uno cliente que ya esta registrado.
 3. pulsar el boton de verificar y nos dirigira a la pantalla de pago, donde yo seleccionare que me esta pagando en efectivo con un billete de 100 soles, al instante el 
 sistema calcula el vuelto.
-Un poco mas abajo no muestra una previsualizacion de 
+Un poco mas abajo nos muestra una previsualizacion de lo que sera nuestro ticket de venta.
+4. Seleccionamos que sera una boleta y le damos a verificar. Nos redirigira a la pantalla del comprobante donde tendremos la opcion de enviar el ticket de compra a un email o simplemente imprimir. 
+5. proseguimos con nuestro siguiente pedido. Hare una venta mas de 3 cascos a otro cliente pero ahora sera una empresa con RUC. 
+
+## paso 7
+_________________________
+Si queremos verificar que nuestra venta se hizo correctamente, cerramos la sesion y entramos a las opciones del punto de venta luego a pedidos, e ingresamos al pedido que hicimos como ejemplo y veremos los datos mas detallados de la venta, entre ellas la factura que se generó
