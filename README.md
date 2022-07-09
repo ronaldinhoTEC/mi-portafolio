@@ -40,4 +40,4 @@ Un poco mas abajo nos muestra una previsualizacion de lo que sera nuestro ticket
 
 ## paso 7
 _________________________
-Si queremos verificar que nuestra venta se hizo correctamente, cerramos la sesion y entramos a las opciones del punto de venta luego a pedidos, e ingresamos al pedido que hicimos como ejemplo y veremos los datos mas detallados de la venta, entre ellas la factura que se generó
+Si queremos verificar que nuestra venta se hizo correctamente, cerramos la sesion y entramos a las opciones del punto de venta luego a pedidos, e ingresamos al pedido que hicimos como ejemplo y veremos los datos mas detallados de la venta, entre ellas la factura que se generó el cual podemos previsualizar y posteriormente descargar o imprimir.
