@@ -30,7 +30,7 @@ _________________________
 Es momento de ingresar al punto de venta, y lo haremos de la siguiente manera: Entramos al submenu que dice tablero, e iniciamos una nueva sesion de nuestro punto de venta; esto tomara unos cuantos segundos. Una vez dentro veremos la interfaz que tiene nuestro punto de venta, tambien veremos el producto que creamos.
 ## paso 6 
 _________________________
-A continuacion haremos la venta de 5 cascos siguiendo los siguientes pasos: 
+A continuacion haremos la venta de 5 cascos siguiendo estos pasos: 
 1. 1:seleccionamos el producto,y automaticamente se pondra el precio que previamente le indicamos en la creacion del producto, para este ejemplo pondre la cantidad de 5.
 2. 2:seleccionamos el cliente, en mi caso pondre un cliente que ya esta registrado.
 3. 3:pulsar el boton de verificar y nos dirigira a la pantalla de pago, donde yo seleccionare que me esta pagando en efectivo con un billete de 100 soles, al instante el sistema calcula el vuelto.
